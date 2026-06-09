@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-06-09T04:33:25",
+  "scanned_targets": [
+    "http://localhost:3000/"
+  ],
+  "summary": {
+    "targets_scanned": 1,
+    "findings_count": 0,
+    "status": "no_findings_recorded"
+  },
+  "findings": []
+}
